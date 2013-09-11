@@ -1,0 +1,2 @@
+export PATH=$PATH:/Users/cantidio/Documents/dart/dart/dart-sdk/bin
+export PATH=$PATH:/Users/cantidio/Documents/dart/dart/chromium
